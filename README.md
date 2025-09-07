@@ -66,7 +66,7 @@ Join the chat and send messages in real time.
 Watch the typing status and online user updates.
 
 
-Contributing
+**Contributing**
 
 Contributions—big or small—are welcome! Whether it's bug fixes, new features, tests, or improving the UI/documentation, feel free to jump in.
 
@@ -88,8 +88,8 @@ See CONTRIBUTING.md
 
 Contact
 
-Created by Abdulfattah Nizamani – feel free to reach out!
-
+Created by **Abdulfattah Nizamani** – feel free to reach out!
+**[LinkedIn](https://linkedin.com/in/fattahniz)**
 
 
 ---
