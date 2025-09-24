@@ -13,6 +13,11 @@ A real-time chat application built with **Node.js**, **Express**, and **Socket.i
 - Clean and user-friendly interface  
 - Scalable, event-driven backend with **Express**
 
+ ## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript (ES6+)
+
+**Backend:** Node.js, Express, Socket.io
+
 ## Installation
 1. Clone the repo
 ```bash
