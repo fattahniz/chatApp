@@ -1,7 +1,6 @@
 # chatApp
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Node.js Version](https://img.shields.io/badge/Node.js-18.x-blue.svg)](https://nodejs.org)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)   
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)  
 
 A real-time chat application built with **Node.js**, **Express**, and **Socket.io**, designed for multi-user communication with features like typing indicators, direct messaging, and seamless real-time updates.
